@@ -1,0 +1,97 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triad Triumph Game</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bungee&family=Concert+One&family=Odor+Mean+Chey&family=Play&family=Rubik+Doodle+Shadow&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"  href="\public\css\style.css">
+ </head>
+ <body>
+
+    
+    <!-- <div id="turn">Please rotate your device!</div> -->
+
+    <div id="contents">
+    <main class="main-con">
+        <!-- GAME HEADING -->
+        <h1>TRIAD TRIUMPH GAME</h1>
+
+        
+        <!-- GAME OPTIONS -->
+        <div class="player-container ">
+            <button id="single"><i class="fa-solid fa-robot"></i> SINGLE PLAYER </button>
+            <button id="multi"><i class="fa-solid fa-user-group"></i> TWO PLAYER </button>
+            <button id="online"><i class="fa-solid fa-globe"></i> PLAY ONLINE</button>
+        </div>
+
+        <!-- BOTH PLAYERS NAME -->
+        <div class="player-name-container hide">
+            <div id="myForm">
+                <label for="idInput">ENTER NAME</label>
+                <input type="text" id="idInput" name="id" maxlength="10" required>
+                <div class="spinnerClass hide">
+                    <div id="spinner"><i class="fa-solid fa-circle-notch fa-spin-pulse fa-2xl" style="color: #ffffff;"></i></div>
+                </div>
+                <button id="get" type="submit"><i class="icon fa-solid fa-magnifying-glass fa-sm"></i> SEARCH PLAYER</button>
+                <button id="reset-home"><i class="icon fa-solid fa-house" style="color: #fff;"></i> HOME MENU</button>
+            </div>
+        </div>
+
+        <!-- ONLINE PLAYER NAMES -->
+        <div class="vsContainer">
+            <div class="vsTwo hide">
+                <div id="user">saptarshi</div>
+                <div id="verses">VS</div>
+                <div id="opponent">Trishna</div>
+            </div>
+        </div>
+        
+        <!-- GRID BUTTONS -->
+        <div class="container hide">
+            <div class="game">
+                <button id="1" class="box"></button>
+                <button id="2" class="box"></button>
+                <button id="3" class="box"></button>
+                <button id="4" class="box"></button>
+                <button id="5" class="box"></button>
+                <button id="6" class="box"></button>
+                <button id="7" class="box"></button>
+                <button id="8" class="box"></button>
+                <button id="9" class="box"></button>
+            </div>
+        </div>
+
+        <!-- WINNER MESSAGE -->
+        <div class="msg-main-container hide">
+            <p id="msg">CONGRATULATIONS, WINNER saptarshim</p>
+            <div classs="msg-container">
+                <video class="video" controls autoplay>
+                    <source id="videoSource" src="./bhai.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+
+
+        <!-- BUTTONS -->
+        <div>
+            <div class="button-container hide">
+                <button id="new_game-btn"><i class="icon fa-solid fa-rotate-right"></i> NEW GAME</button>
+                <button id="reset"><i class="icon fa-solid fa-house"></i> HOME MENU</button>
+            </div>
+        </div>
+
+        <div class="copyrights">
+            <p>© 2024 Saptarshi Mondal. All rights reserved.</p>
+            <p>saptarishimondal@gmail.com</p>
+        </div>
+        
+    </main>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="public\js\script.js"></script>
+ </body>
+ </html>

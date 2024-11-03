@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: tic-tac-toe-game
+    env: node
+    plan: free
+    buildCommand: "npm install"
+    startCommand: "node server.js"
+    envVars:
+      - key: PORT
+        value: 3000
