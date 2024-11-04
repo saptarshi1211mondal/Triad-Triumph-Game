@@ -1,6 +1,6 @@
 # Triad Triumph Game
 
-# Play on - [Website ](https://saptarshi1211mondal.github.io/Triad-Triumph-Game/) or [Download App](https://drive.google.com/file/d/1XWSmYqeNfa7EzWd0Qp_8EMvgo2QnJuLJ/view?usp=drive_link)  <img src="https://github.com/saptarshi1211mondal/Triad-Triumph-Game/blob/774b046cf12fc1f72b2a686fac34e07ff751952a/splash_app_logo.png" width="80" height="80" />
+# Play on - [Website ]([https://saptarshi1211mondal.github.io/Triad-Triumph-Game/](https://triad-triumph-game.onrender.com/)) or [Download App](https://drive.google.com/file/d/1XWSmYqeNfa7EzWd0Qp_8EMvgo2QnJuLJ/view?usp=drive_link)  <img src="https://github.com/saptarshi1211mondal/Triad-Triumph-Game/blob/774b046cf12fc1f72b2a686fac34e07ff751952a/splash_app_logo.png" width="80" height="80" />
 
 
 
