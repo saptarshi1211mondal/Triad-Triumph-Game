@@ -22,8 +22,8 @@ This classic game not only provides timeless entertainment but also serves as a 
 
 
 # Website video :
+[website video.webm](https://github.com/user-attachments/assets/1e3528cd-1f72-427d-9d83-49a3d897358f)
 
-[Tic-Tac-Toe video.mp4.webm](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/82b602ee-ace6-4372-9139-b5d370781785) 
 
 # Android App video :
 
@@ -35,29 +35,39 @@ https://github.com/saptarshi1211mondal/Triad-Triumph-Game/assets/70250497/a44934
 
 
 # 1. Home Menu :
-![Screenshot 2024-02-18 114622](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/fb2d1183-ec8a-4b7c-9f9d-7f1fdc82088e)
+![home menu](https://github.com/user-attachments/assets/235bb30f-39cd-480b-b072-8dfc57cce88e)
+
 
 # 2. Single Player :
-![Screenshot 2024-02-18 114652](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/e4924d59-8571-47e8-96d9-08924a265323)
+![single](https://github.com/user-attachments/assets/0c8e944e-17df-41f6-9647-e3498567b216)
+
 
 # 3. Winner :
-![Screenshot 2024-02-18 114729](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/e00833cd-b4e0-4ec7-8786-77fb2b0a5fe6)
+![multi](https://github.com/user-attachments/assets/494cab1b-d996-430b-a0c5-4f5ef58a5d53)
+
 
 # 4. Winning Message :
-![Screenshot 2024-02-18 114753](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/d4408b99-b09f-41db-b450-a0b786340815)
+![winning message](https://github.com/user-attachments/assets/9e062055-e941-48b1-83c8-fb2ed6aed4b1)
+
 
 # 5. Looser :
-![Screenshot 2024-02-18 114839](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/e66f2e72-5140-45f9-a945-a5a892784f60)
+![looser](https://github.com/user-attachments/assets/1d8cf80c-fa67-4cde-b065-fe5eadfc1aa3)
+
 
 # 6. Loosing Message :
-![Screenshot 2024-02-18 114858](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/1016854f-b10c-4244-9acf-4434fe65e29b) 
+![looser message](https://github.com/user-attachments/assets/2e950460-cbc5-44da-85fb-ee705fb50718)
+
+# 7. Online Game Screen :
+![online](https://github.com/user-attachments/assets/55c558ce-8fec-4b39-8003-e241465f6cf5)
+
+# 6. Online Game video :
+[online video.webm](https://github.com/user-attachments/assets/f19a26bf-8d5f-4f8b-9472-070195341361)
 
 
-# Responsive View :
-![Screenshot 2024-03-26 102143](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/f81fc3d4-65e8-4c32-829c-c472586fa0aa)
-![Screenshot 2024-03-26 102043](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/d99e7e75-1c0a-41dc-9516-f752ee0921c9)
-![Screenshot 2024-03-26 102218](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/c91593f6-3475-44e6-8780-25e1117e3aa5)
-![Screenshot 2024-03-26 102245](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/e62887e3-b810-44fd-a982-aa6eaff09939)
-![Screenshot 2024-03-26 102331](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/1020bfdc-8c79-478e-af62-48326948b33b)
-![Screenshot 2024-03-26 102356](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/b2ed6a2c-b79d-4279-b7d0-6ec2317127f8)
 
+# Responsive View For Mobile:
+![iPhone-14-Plus-triad-triumph-game onrender com](https://github.com/user-attachments/assets/410967b3-8e6b-405b-9748-51d966cdf43f)
+![iPhone-14-Plus-triad-triumph-game onrender com (1)](https://github.com/user-attachments/assets/adeb3d55-6b3e-4256-a920-ce670676df2f)
+![iPad-PRO-11-triad-triumph-game onrender com](https://github.com/user-attachments/assets/762fba36-26df-4a3b-b3b6-b0c8be5cb9b1)
+![Macbook-Air-triad-triumph-game onrender com](https://github.com/user-attachments/assets/e28e680e-41a4-455b-b895-8a8f472ac969)
+![Macbook-Air-triad-triumph-game onrender com (1)](https://github.com/user-attachments/assets/f14c4a20-cfff-4345-b315-3005718f26d3)
